@@ -1,1 +1,3 @@
 # SimonGame
+
+permalink: /index.html
